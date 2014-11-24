@@ -6,7 +6,7 @@ Cool CMS
 
 ### Welcome to the repository
 
-Feel free to access [my portfolio](http;//snobic.com).
+Feel free to access [my portfolio](http://snobic.com).
 
 > ## Lorem ipsum dolor sit amet
 >
